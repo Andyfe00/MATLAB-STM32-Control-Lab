@@ -29,5 +29,8 @@ This project demonstrates real-time communication between **MATLAB App Designer*
 5. Observe the plots for input, outputs, and error.
 
 ---
-
-Made by **Andrés Felipe Porras C.**  
+> ⚠️ Academic Disclaimer  
+> This project was developed as part of the  
+> Topicos Avanzados de Control module at **Universidad Militar Nueva Granada (2017–2021)**.  
+> The content is shared for educational and portfolio purposes only.  
+> No proprietary or restricted university materials are included.
